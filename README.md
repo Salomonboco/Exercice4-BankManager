@@ -17,4 +17,4 @@ utilisant le concept d'héritage.
 3. Exécuter la classe Main
 
 ## Auteur
-BOCO Salomon [[https:](https://github.com/Salomonboco)
+Boco Salomon
